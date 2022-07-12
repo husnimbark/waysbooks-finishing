@@ -1,0 +1,69 @@
+.body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #f2f2f2 !important;
+  font-family: "Avenir" !important;
+  background-image: url("../assets/bg.png") !important;
+  background-repeat: no-repeat;
+}
+
+.f-1 {
+  font-family: "Vollcom";
+}
+
+.f-2 {
+  font-family: "Avenir";
+}
+
+.horizontal-scrollable>.row {
+  overflow-x: hidden;
+  white-space: nowrap;
+}
+
+.rounded-l {
+  border-radius: 30px;
+}
+
+.rounded-m {
+  border-radius: 20px;
+}
+
+.rounded-s {
+  border-radius: 10px;
+}
+
+.fs-7 {
+  font-size: 10px;
+}
+
+.fs-8 {
+  font-size: 12px;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.mt-book {
+  margin-top: 40px;
+}
+
+.price-color {
+  color: #44b200;
+}
+
+.justify-t {
+  text-align: justify;
+}
+
+.h-30 {
+  height: 60px;
+}
+
+.mt-n {
+  margin-top: -2rem !important;
+}
